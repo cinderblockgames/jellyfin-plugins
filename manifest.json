@@ -10,7 +10,7 @@
     "versions": [
       {
         "version": "0.2.0.0",
-        "changelog": "0.2.0.0: Fixing non-admin user access.\n0.1.0.0: Initial release.",
+        "changelog": "0.2.0.0: Fixing non-admin user access.",
         "targetAbi": "12.0.0.0",
         "sourceUrl": "https://github.com/cinderblockgames/jellyfin-highlighted-collection/releases/download/0.2.0.0/highlighted-collection_0.2.0.0.zip",
         "checksum": "004896b897c57e36fde32004aadc6054",
