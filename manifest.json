@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/cinderblockgames/jellyfin-highlighted-collection/refs/heads/master/Jellyfin.Plugin.HighlightedCollection/icon.png",
     "versions": [
       {
+        "version": "0.4.0.0",
+        "changelog": "0.4.0.0: Switching to file-based date-added-to-collection storage.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/cinderblockgames/jellyfin-highlighted-collection/releases/download/0.4.0.0/highlighted-collection_0.4.0.0.zip",
+        "checksum": "9a1c7db67cf26211d3e5197163547814",
+        "timestamp": "2026-11-20T16:00:00Z"
+      },
+      {
         "version": "0.3.0.2",
         "changelog": "0.3.0.2: Fixing duplication caused by rename from leaving-soon to highlighted-collection.",
         "targetAbi": "12.0.0.0",
